@@ -1,4 +1,4 @@
-# anticipation-on-reading-times
+# Copied from anticipation-on-reading-times
 Code accompanying paper "On the Effect of Anticipation on Reading Times".
 
 ## Install Dependencies
