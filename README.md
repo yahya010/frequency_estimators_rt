@@ -53,25 +53,9 @@ where `x` is an integer from 1 to 8.
 
 ## Extra Information
 
-#### Citation
 
-If this code or the paper were usefull to you, consider citing it:
-
-
-```bash
-@article{pimentel-etal-2022-effect,
-    title = "On the Effect of Anticipation on Reading Times",
-    author = "Pimentel, Tiago and
-    Meister, Clara and
-    Wilcox, Ethan G. and
-    Levy, Roger and
-    Cotterell, Ryan",
-    journal = "arXiv preprint",
-    year = "2022",
-}
-```
-
+TBD
 
 #### Contact
 
-To ask questions or report problems, please open an [issue](https://github.com/rycolab/anticipation-on-reading-times/issues).
+To ask questions or report problems, please contact yemara@ethz.ch.
