@@ -1,5 +1,4 @@
-# Code for word frequency estimators, reading time predictions, and Cognitively Plausible Attention Mechanisms
-
+# Code for word frequency estimators, reading time predictions (UPDATE)
 ## Install Dependencies
 
 First, create a conda environment with
@@ -58,4 +57,4 @@ TBD
 
 #### Contact
 
-To ask questions or report problems, please contact yemara@ethz.ch.
+To ask questions or report problems, please contact yemara@ethz.ch
