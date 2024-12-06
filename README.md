@@ -1,5 +1,4 @@
-# Copied from anticipation-on-reading-times
-Code accompanying paper "On the Effect of Anticipation on Reading Times".
+# Code for word frequency estimators, reading time predictions, and Cognitively Plausible Attention Mechanisms
 
 ## Install Dependencies
 
